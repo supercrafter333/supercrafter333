@@ -1,16 +1,44 @@
-### Hi there 👋
+### Hello there, I'm supercrafter333 - aka [supercrafter333][github] 👋   I'm a german PHP Developer and I code plugins for PocketMine-MP.
 
-<!--
-**supercrafter333/supercrafter333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm learning: HTML**
 
-Here are some ideas to get you started:
+**I'm looking for new projects.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I like it to help other people.**
+
+<br />
+
+### My GitHub Projects/Repos:
+[<img align="left" alt="supercrafter333 | BlockAPI" width="42px" src="https://github.com/supercrafter333/BlockAPI/blob/master/icon.png" />][blockapi]
+[<img align="left" alt="supercrafter333 | theWarn" width="42x" src="https://github.com/supercrafter333/theWarn/blob/main/icon.png" />][thewarn]
+
+<br />
+
+**[Werbung-PMMP](https://github.com/supercrafter333/WerbungPMMP)**
+**[AllClaimPlotCommand](https://github.com/supercrafter333/AllClaimPlotCommand)**
+
+### Connect with me:
+
+[<img align="left" alt="supercrafter333 | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="supercrafter333 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="supercrafter333 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
+<br />
+
+### Languages, APIs and Tools:
+
+[<img align="left" alt="PHP" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1024px-PHP-logo.svg.png" />](https://php.net)
+[<img align="left" alt="PocketMine-MP" width="26px" src="https://images-eu.ssl-images-amazon.com/images/I/41vtkBOXeCL.png" />](https://pmmp.io)
+[<img align="left" alt="PHPStorm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Phpstorm.png" />](https://www.jetbrains.com/phpstorm/)
+<br />
+
+---
+
+<img align="left" alt="supercrafter333 | Github Stats" src="https://github-readme-stats.vercel.app/api?username=supercrafter333&count_private=true&show_icons=true&hide_border=true&theme=cobalt" />
+
+
+[blockapi]: https://github.com/supercrafter333/BlockAPI
+[thewarn]: https://github.com/supercrafter333/theWarn
+[github]: https://github.com/supercrafter333
+[instagram]: https://www.instagram.com/supercrafter333_real/
+[youtube]: https://www.youtube.com/channel/UC5pJ_YpwgBFFJFxX0QrO0vg
