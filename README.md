@@ -37,6 +37,7 @@
 ---
 
 <img align="left" alt="supercrafter333 | Github Stats" src="https://github-readme-stats.vercel.app/api?username=supercrafter333&count_private=true&show_icons=true&hide_border=true5&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<img align="left" alt="supercrafter333 | Github Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supercrafter333&count_private=true&show_icons=true&hide_border=true5&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
 
 [blockapi]: https://github.com/supercrafter333/BlockAPI
