@@ -33,7 +33,7 @@
 [<img align="left" alt="HTML5" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png" />](https://en.wikipedia.org/wiki/CSS)
 [<img align="left" alt="PocketMine-MP" width="26px" src="https://images-eu.ssl-images-amazon.com/images/I/41vtkBOXeCL.png" />](https://pmmp.io)
 [<img align="left" alt="PHPStorm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/225px-PhpStorm_Icon.svg.png" />](https://www.jetbrains.com/phpstorm/)
-[<img align="left" alt="Huawei" width="26px" src="https://seeklogo.com/images/H/Huawei-logo-A8C7CBCAA8-seeklogo.com.png" />](https://www.huawei.com/en/)
+[<img align="left" alt="Huawei" width="26px" src="https://seeklogo.com/images/H/Huawei-logo-A8C7CBCAA8-seeklogo.com.png" />](https://www.huawei.com/)
 
 <br />
 
