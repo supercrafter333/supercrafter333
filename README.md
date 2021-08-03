@@ -9,6 +9,7 @@
 **I like it to help other people.**
 <br />
 ### My GitHub Projects/Repos on Poggit:
+[<img align="left" alt="supercrafter333 | PlotRate" width="42px" src="https://github.com/supercrafter333/PlotRate/blob/master/icon.png" />][plotrate]
 [<img align="left" alt="supercrafter333 | theSpawn" width="42px" src="https://github.com/supercrafter333/theSpawn/blob/master/icon.png" />][thespawn]
 [<img align="left" alt="supercrafter333 | BlockAPI" width="42px" src="https://github.com/supercrafter333/BlockAPI/blob/master/icon.png" />][blockapi]
 [<img align="left" alt="supercrafter333 | theWarn" width="42x" src="https://github.com/supercrafter333/theWarn/blob/main/icon.png" />][thewarn]
@@ -44,6 +45,7 @@ Mail-Address: mail@supercrafter333.de
 <img align="left" alt="supercrafter333 | Github Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supercrafter333&count_private=true&show_icons=true&hide_border=true5&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
 
+[plotrate]: https://github.com/supercrafter333/PlotRate
 [thespawn]: https://github.com/supercrafter333/theSpawn
 [blockapi]: https://github.com/supercrafter333/BlockAPI
 [thewarn]: https://github.com/supercrafter333/theWarn
