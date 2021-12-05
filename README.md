@@ -9,15 +9,12 @@
 **I like it to help other people.**
 <br />
 ### My GitHub Projects/Repos on Poggit:
-[<img align="left" alt="supercrafter333 | PlotRate" width="42px" src="https://github.com/supercrafter333/PlotRate/blob/master/icon.png" />][plotrate]
 [<img align="left" alt="supercrafter333 | theSpawn" width="42px" src="https://github.com/supercrafter333/theSpawn/blob/master/icon.png" />][thespawn]
-[<img align="left" alt="supercrafter333 | BlockAPI" width="42px" src="https://github.com/supercrafter333/BlockAPI/blob/master/icon.png" />][blockapi]
+[<img align="left" alt="supercrafter333 | BetterBan" width="42px" src="https://github.com/supercrafter333/BetterBan/blob/master/icon.gif" />][betterban]
+[<img align="left" alt="supercrafter333 | PlotRate" width="42px" src="https://github.com/supercrafter333/PlotRate/blob/master/icon.png" />][plotrate]
 [<img align="left" alt="supercrafter333 | theWarn" width="42x" src="https://github.com/supercrafter333/theWarn/blob/main/icon.png" />][thewarn]
 
 <br />
-
-**[Werbung-PMMP   ](https://github.com/supercrafter333/WerbungPMMP)**
-**[AllClaimPlotCommand](https://github.com/supercrafter333/AllClaimPlotCommand)**
 
 ### Connect with me:
 
@@ -47,7 +44,7 @@ Mail-Address: mail@supercrafter333.de
 
 [plotrate]: https://github.com/supercrafter333/PlotRate
 [thespawn]: https://github.com/supercrafter333/theSpawn
-[blockapi]: https://github.com/supercrafter333/BlockAPI
+[betterban]: https://github.com/supercrafter333/BetterBan
 [thewarn]: https://github.com/supercrafter333/theWarn
 [github]: https://github.com/supercrafter333
 [instagram]: https://www.instagram.com/supercrafter333_real/
