@@ -1,4 +1,4 @@
-### Hello there, I'm supercrafter333 - aka [supercrafter333][github] 👋   I'm a german PHP, HTML and CSS Developer and I code plugins for PocketMine-MP.
+### Hello there, I'm [supercrafter333][github] 👋   I'm a german PHP, HTML and CSS Developer and I code plugins for PocketMine-MP.
 
 #### Over me:  I'm 14 years old and I live in the middle of germany. I like to play Minecraft PE, Farming Simulator 19 or Fortnite and I like to code PocketMine-MP plugins for me and other people. My hobbies are playing guitar, programming and the youth fire brigade.
 
