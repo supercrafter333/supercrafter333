@@ -2,7 +2,7 @@
 
 #### Over me:  I'm 14 years old and I live in the middle of germany. I like to play Minecraft PE, Farming Simulator 19 or Fortnite and I like to code PocketMine-MP plugins for me and other people. My hobbies are playing guitar, programming and the youth fire brigade.
 
-**I'm learning JavaScript.**
+**I'm learning Kotlin and JavaScript.**
 
 **I'm looking for new projects.**
 
