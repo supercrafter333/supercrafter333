@@ -8,8 +8,6 @@
 
 **I like it to help other people.**
 
-[![Discord](https://discord.c99.nl/widget/theme-3/511252471616897024.png)](#)
-
 ### My GitHub Projects/Repos on Poggit:
 [<img align="left" alt="supercrafter333 | theSpawn" width="42px" src="https://github.com/supercrafter333/theSpawn/blob/master/icon.png" />][thespawn]
 [<img align="left" alt="supercrafter333 | BetterBan" width="42px" src="https://github.com/supercrafter333/BetterBan/blob/master/icon.gif" />][betterban]
