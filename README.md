@@ -14,7 +14,7 @@
 [<img align="left" alt="supercrafter333 | BetterMute" width="42px" src="https://github.com/supercrafter333/BetterMute/blob/master/icon.gif" />][bettermute]
 [<img align="left" alt="supercrafter333 | BetterBan" width="42px" src="https://github.com/supercrafter333/BetterBan/blob/master/icon.gif" />][betterban]
 [<img align="left" alt="supercrafter333 | PlotRate" width="42px" src="https://github.com/supercrafter333/PlotRate/blob/master/icon.png" />][plotrate]
-[<img align="left" alt="supercrafter333 | theWarn" width="42x" src="https://github.com/supercrafter333/theWarn/blob/main/icon.png" />][thewarn]
+<!--[<img align="left" alt="supercrafter333 | theWarn" width="42x" src="https://github.com/supercrafter333/theWarn/blob/main/icon.png" />][thewarn]-->
 
 <br />
 
