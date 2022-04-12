@@ -1,4 +1,4 @@
-[<img align="left" alt="Community Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>][discord_server]
+[<img alt="Community Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>][discord_server]
 ### Hello there, I'm [supercrafter333][github] 👋   I'm a german PHP, HTML and CSS Developer and I code plugins for PocketMine-MP.
 
 #### Over me:  I'm 14 years old and I live in the middle of germany. I like to play Minecraft PE, Farming Simulator 19 or Fortnite and I like to code PocketMine-MP plugins for me and other people. My hobbies are playing guitar, programming and the youth fire brigade.
