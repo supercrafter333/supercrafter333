@@ -1,3 +1,4 @@
+[<img align="left" alt="Community Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>][discord_server]
 ### Hello there, I'm [supercrafter333][github] 👋   I'm a german PHP, HTML and CSS Developer and I code plugins for PocketMine-MP.
 
 #### Over me:  I'm 14 years old and I live in the middle of germany. I like to play Minecraft PE, Farming Simulator 19 or Fortnite and I like to code PocketMine-MP plugins for me and other people. My hobbies are playing guitar, programming and the youth fire brigade.
@@ -22,7 +23,8 @@
 [<img align="left" alt="supercrafter333 | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="supercrafter333 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="supercrafter333 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-Mail-Address: mail@supercrafter333.de
+[<img align="left" alt="supercrafter333 | E-Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+[<img align="left" alt="supercrafter333 | Discord DM" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <br />
 
@@ -32,7 +34,7 @@ Mail-Address: mail@supercrafter333.de
 [<img align="left" alt="HTML5" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png" />](https://en.wikipedia.org/wiki/HTML)
 [<img align="left" alt="CSS3" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png" />](https://en.wikipedia.org/wiki/CSS)
 [<img align="left" alt="PocketMine-MP" width="26px" src="https://images-eu.ssl-images-amazon.com/images/I/41vtkBOXeCL.png" />](https://pmmp.io)
-[<img align="left" alt="PHPStorm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/225px-PhpStorm_Icon.svg.png" />](https://www.jetbrains.com/phpstorm/)
+[<img align="left" alt="PhpStorm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/225px-PhpStorm_Icon.svg.png" />](https://www.jetbrains.com/phpstorm/)
 [<img align="left" alt="Huawei" width="26px" src="https://seeklogo.com/images/H/Huawei-logo-A8C7CBCAA8-seeklogo.com.png" />](https://www.huawei.com/)
 
 <br />
@@ -53,3 +55,6 @@ Mail-Address: mail@supercrafter333.de
 [github]: https://github.com/supercrafter333
 [instagram]: https://www.instagram.com/supercrafter333_real/
 [youtube]: https://www.youtube.com/channel/UC5pJ_YpwgBFFJFxX0QrO0vg
+[mail]: mailto:mail@supercrafter333.de
+[discord_server]: https://discord.gg/ca6cWPpERp
+[discord]: https://discordapp.com/users/511252471616897024
