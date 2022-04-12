@@ -20,11 +20,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="supercrafter333 | GitHub" width="22px" style="color:white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="supercrafter333 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="supercrafter333 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="supercrafter333 | E-Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
-[<img align="left" alt="supercrafter333 | Discord DM" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="supercrafter333 | GitHub" width="22px" color="white" src="https://simpleicons.org/icons/github.svg"/>][github]
+[<img align="left" alt="supercrafter333 | Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg"/>][instagram]
+[<img align="left" alt="supercrafter333 | YouTube" width="22px" src="https://simpleicons.org/icons/youtube.svg"/>][youtube]
+[<img align="left" alt="supercrafter333 | E-Mail" width="22px" src="https://simpleicons.org/icons/gmail.svg"/>][mail]
+[<img align="left" alt="supercrafter333 | Discord DM" width="22px" src="https://simpleicons.org/icons/discord.svg"/>][discord]
 
 <br />
 
