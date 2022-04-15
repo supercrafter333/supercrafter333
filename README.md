@@ -1,9 +1,9 @@
 [<img alt="Community Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>][discord_server]
-### Hello there, I'm [supercrafter333][github] 👋   I'm a german PHP, HTML and CSS Developer and I code plugins for PocketMine-MP.
+### Hello there, I'm [supercrafter333][github] aka Christoph 👋 <br>  I'm a german PHP, HTML and CSS developer and I'm coding plugins for PocketMine-MP and simple websites.
 
-#### Over me:  I'm 14 years old and I live in the middle of germany. I like to play Minecraft PE, Farming Simulator 19 or Fortnite and I like to code PocketMine-MP plugins for me and other people. My hobbies are playing guitar, programming and the youth fire brigade.
+#### Over me:  I'm 14 years old and I live in the middle of germany. I like to play Minecraft PE, Farming Simulator 19 or Fortnite and I like to code PocketMine-MP plugins for me and other people. My hobbies are playing guitar, programming and the youth fire brigade. I started programming with PHP 7.4 in 2020.
 
-**I'm learning Kotlin and JavaScript.**
+**I'm trying to lern Kotlin.**
 
 **I'm looking for new projects.**
 
@@ -11,11 +11,13 @@
 
 ### My GitHub Projects/Repos on Poggit:
 [<img align="left" alt="supercrafter333 | theSpawn" width="42px" src="https://github.com/supercrafter333/theSpawn/blob/master/icon.png" />][thespawn]
+[<img align="left" alt="supercrafter333 | theRankShop" width="42px" src="https://github.com/supercrafter333/theRankShop/blob/master/icon.png" />][therankshop]
 [<img align="left" alt="supercrafter333 | BetterMute" width="42px" src="https://github.com/supercrafter333/BetterMute/blob/master/icon.gif" />][bettermute]
 [<img align="left" alt="supercrafter333 | BetterBan" width="42px" src="https://github.com/supercrafter333/BetterBan/blob/master/icon.gif" />][betterban]
 [<img align="left" alt="supercrafter333 | PlotRate" width="42px" src="https://github.com/supercrafter333/PlotRate/blob/master/icon.png" />][plotrate]
 <!--[<img align="left" alt="supercrafter333 | theWarn" width="42x" src="https://github.com/supercrafter333/theWarn/blob/main/icon.png" />][thewarn]-->
 
+<br />
 <br />
 
 ### Connect with me:
@@ -49,6 +51,7 @@
 
 [plotrate]: https://github.com/supercrafter333/PlotRate
 [thespawn]: https://github.com/supercrafter333/theSpawn
+[therankshop]: https://github.com/supercrafter333/theRankShop
 [bettermute]: https://github.com/supercrafter333/BetterMute
 [betterban]: https://github.com/supercrafter333/BetterBan
 [thewarn]: https://github.com/supercrafter333/theWarn
