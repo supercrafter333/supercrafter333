@@ -14,6 +14,7 @@
 [<img align="left" alt="supercrafter333 | theRankShop" width="42px" src="https://github.com/supercrafter333/theRankShop/blob/master/icon.png" />][therankshop]
 [<img align="left" alt="supercrafter333 | BetterMute" width="42px" src="https://github.com/supercrafter333/BetterMute/blob/master/icon.gif" />][bettermute]
 [<img align="left" alt="supercrafter333 | BetterBan" width="42px" src="https://github.com/supercrafter333/BetterBan/blob/master/icon.gif" />][betterban]
+[<img align="left" alt="supercrafter333 | PlayedTime" width="42px" src="https://github.com/supercrafter333/PlayedTime/blob/master/icon.png" />][playedtime]
 [<img align="left" alt="supercrafter333 | PlotRate" width="42px" src="https://github.com/supercrafter333/PlotRate/blob/master/icon.png" />][plotrate]
 <!--[<img align="left" alt="supercrafter333 | theWarn" width="42x" src="https://github.com/supercrafter333/theWarn/blob/main/icon.png" />][thewarn]-->
 
@@ -50,6 +51,7 @@
 
 
 [plotrate]: https://github.com/supercrafter333/PlotRate
+[playedtime]: https://github.com/supercrafter333/PlayedTime
 [thespawn]: https://github.com/supercrafter333/theSpawn
 [therankshop]: https://github.com/supercrafter333/theRankShop
 [bettermute]: https://github.com/supercrafter333/BetterMute
