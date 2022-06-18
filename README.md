@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=PocketMine-MP+developer;Web-developer;Trying+to+learn+Kotlin;Liberal+guy+%F0%9F%92%9B)](.)
+
 [<img alt="Community Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>][discord_server]
 ### Hello there, I'm [supercrafter333][github] aka Christoph 👋 <br>  I'm a german PHP, HTML and CSS developer and I'm coding plugins for PocketMine-MP and simple websites.
 
