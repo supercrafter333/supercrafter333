@@ -1,5 +1,3 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=supercrafter333&label=Profile%20views&color=0e75b6&style=flat" alt="supercrafter333" /> </p>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=PocketMine-MP+developer;Web-developer;Trying+to+learn+Kotlin;Liberal+guy+%F0%9F%92%9B)](.)
 
 [<img alt="Community Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>][discord_server]
