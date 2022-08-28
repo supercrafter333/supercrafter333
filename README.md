@@ -3,7 +3,7 @@
 [<img alt="Community Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>][discord_server]
 ### Hello there, I'm [supercrafter333][github] aka Christoph 👋 <br>  I'm a german PHP, HTML and CSS developer and I'm coding plugins for PocketMine-MP and simple websites.
 
-#### Over me:  I'm 14 years old and I live in the middle of germany. I like to play Minecraft PE, Farming Simulator 19 or Fortnite and I like to code PocketMine-MP plugins for me and other people. My hobbies are playing guitar, programming and the youth fire brigade. I started programming with PHP 7.4 in 2020.
+#### Over me:  I'm 14 years old and I live in the middle of germany. I like playing Minecraft: Bedrock Edition and I like to code PocketMine-MP plugins for me and other people. My hobbies are playing guitar, programming and the youth fire brigade. I started programming with PHP 7.4 in 2020.
 
 **I'm trying to lern Kotlin.**
 
