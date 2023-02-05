@@ -27,6 +27,7 @@
 <!--[<img align="left" alt="supercrafter333 | BetterMute" width="42px" src="https://github.com/supercrafter333/BetterMute/blob/master/icon.gif" />][bettermute]-->
 <!--[<img align="left" alt="supercrafter333 | BetterBan" width="42px" src="https://github.com/supercrafter333/BetterBan/blob/master/icon.gif" />][betterban]-->
 [<img align="left" alt="supercrafter333 | PlayedTime" width="42px" src="https://github.com/supercrafter333/PlayedTime/blob/master/icon.png" />][playedtime]
+[<img align="left" alt="supercrafter333 | BetterBroadcast" width="42px" src="https://github.com/supercrafter333/BetterBroadcast/blob/master/icon.png" />][betterbroadcast]
 [<img align="left" alt="supercrafter333 | PlotRate" width="42px" src="https://github.com/supercrafter333/PlotRate/blob/master/icon.png" />][plotrate]
 <!--[<img align="left" alt="supercrafter333 | theWarn" width="42x" src="https://github.com/supercrafter333/theWarn/blob/main/icon.png" />][thewarn]-->
 
@@ -62,6 +63,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=supercrafter333&theme=darkhub)
 
 
+[betterbroadcast]: https://github.com/supercrafter333/BetterBroadcast
 [plotrate]: https://github.com/supercrafter333/PlotRate
 [playedtime]: https://github.com/supercrafter333/PlayedTime
 [thespawn]: https://github.com/supercrafter333/theSpawn
